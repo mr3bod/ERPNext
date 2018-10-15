@@ -19,7 +19,7 @@
 	/home/frappe/frappe-bench/apps/frappe/frappe
 
 
-#flask-app
+# flask-app
 1- copy all the following files in the dir /home/frappe/frappe-bench/
 	app
 	config.py
